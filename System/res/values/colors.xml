@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2018 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <!-- Resolver -->
+    <color name="resolver_list_bg">@*android:color/material_grey_900</color>
+
+    <!-- Immersive cling -->
+    <color name="immersive_cling_bg_color">@*android:color/material_grey_900</color>
+    <color name="immersive_cling_text_color">@android:color/white</color>
+    <color name="immersive_cling_button_text_color">@android:color/white</color>
+
+    <color name="app_permission_icon_tint">@android:color/white</color>
+
+    <color name="notification_info_button_text">@*android:color/notification_default_color</color>
+
+    <color name="autofill_save_title_color">@android:color/black</color>
+    <color name="autofill_autofill_save_custom_subtitle_color">@android:color/black</color>
+
+    <!-- Color Constants -->
+    <color name="theme_text1">#ffececec</color> <!-- text primary -->
+    <color name="theme_text2">#b3ececec</color>  <!-- text secondary -->
+
+    <!-- Notifications -->
+    <color name="notification_legacy_background_color">@*android:color/transparent</color>
+    <color name="notification_material_background_dimmed_color">@*android:color/transparent</color>
+    <color name="notification_material_background_low_priority_color">@*android:color/black</color>
+    <color name="notification_divider_color">@*android:color/transparent</color>
+    <color name="notification_shade_background_color">@*android:color/transparent</color>
+    <color name="notification_guts_bg_color">@*android:color/transparent</color>
+    <color name="notification_material_background_color">#00ffffff</color>
+    <color name="notification_default_color">@*android:color/theme_text1</color>
+    <color name="notification_action_list">@*android:color/material_grey_850</color>
+    <color name="notification_action_list_dark">@*android:color/material_grey_850</color>
+    <color name="notification_primary_text_color_light">@*android:color/theme_text1</color>
+    <color name="notification_secondary_text_color_light">@*android:color/theme_text2</color>
+    <color name="notification_progress_background_color">@*android:color/theme_text2</color>
+    <color name="notification_snooze_text">@*android:color/theme_text1</color>
+    <color name="notification_text_color1">@*android:color/theme_text1</color>
+
+    <!-- Toast text and bg colors -->
+    <color name="toast_bg_color">@*android:color/background_floating_material_dark</color>
+    <color name="toast_text_color">@android:color/white</color>
+
+    <!-- System Backgrounds -->	
+    <color name="material_grey_900">#cc000000</color>
+    <color name="material_grey_850">#9c000000</color>
+    <color name="material_grey_800">#39000000</color>
+    <color name="material_grey_600">@*android:color/material_grey_850</color>
+    <color name="material_blue_grey_700">@*android:color/material_grey_850</color>
+    <color name="material_blue_grey_800">@*android:color/black</color>
+    <color name="material_blue_grey_900">@*android:color/black</color>
+    <color name="material_blue_grey_950">@*android:color/black</color>
+    <color name="background_material_dark">#93000000</color> 
+    <color name="background_device_default_dark">#90000000</color>
+    <color name="background_floating_material_dark">#cc000000</color>	
+    
+    <color name="list_divider_dark">@*android:color/transparent</color>      
+	
+    <color name="havoc_qs_active">#ffffff</color>
+    <color name="havoc_qs_inactive">#dddddd</color>
+    <color name="havoc_qs_unavailable">#bebebe</color>
+    <color name="havoc_qs_circle_active">?android:attr/colorAccent</color>
+    <color name="havoc_qs_circle_inactive">#707070</color>
+	
+    <color name="vol_slider">#bebebe</color>
+</resources>

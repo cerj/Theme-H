@@ -41,7 +41,7 @@
     <color name="notification_divider_color">@*android:color/transparent</color>
     <color name="notification_shade_background_color">@*android:color/transparent</color>
     <color name="notification_guts_bg_color">@*android:color/transparent</color>
-    <color name="notification_material_background_color">#00ffffff</color>
+    <color name="notification_material_background_color">#ff000000</color>
     <color name="notification_default_color">@*android:color/theme_text1</color>
     <color name="notification_action_list">@*android:color/material_grey_850</color>
     <color name="notification_action_list_dark">@*android:color/material_grey_850</color>
